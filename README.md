@@ -1,2 +1,2 @@
 # python
-Contains basic beginner python script from capston project
+Contains basic beginner python scripts from capston project
